@@ -1,0 +1,14 @@
+.custom-button{
+    border-radius: 6px;
+    padding: 10px;
+    width: 200px;
+    font-weight: 700;
+    color:#00ff00;
+    background: #f06d55;
+    border: none;
+}
+.dark-bg{
+    background-image: url(https://res.cloudinary.com/dbzgljncp/image/upload/v1683818526/Adobe_Express_20230429_1948000.5961287360236089_pzzxcc_d3ue7m.gif);
+
+    color: #00ff00;
+}

@@ -1,0 +1,23 @@
+.main-section{
+    background-image: url(https://res.cloudinary.com/dbzgljncp/image/upload/v1683818526/Adobe_Express_20230429_1948000.5961287360236089_pzzxcc_d3ue7m.gif);
+    background-repeat: no-repeat,no-repeat;
+    background-position: left;
+    background-size: cover;
+}
+.nav-icon a{
+    font-size: 25px;
+}
+img{
+    border-radius: 10px;
+}
+.nav-icon a i{
+    color: black;
+}
+.nav-icon a:hover{
+    background: white;
+    border-radius: 10px;
+}
+.title{
+    color: rgb(243, 241, 241);
+    font-weight: 500;
+}
