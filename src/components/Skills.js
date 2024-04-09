@@ -42,7 +42,7 @@ export default function Skills() {
                             <label htmlFor="file" className='m-auto'>60%</label>
                         </div>
                     </div>
-                    <div class="grid-item"><label htmlFor="file">Java</label><br />
+                    <div class="grid-item"><label htmlFor="file">SQLlite</label><br />
                         <div className="d-flex">
                             <progress className="file" value="60" max="100"> 60% </progress>
                             <label htmlFor="file" className='m-auto'>60%</label>
@@ -50,13 +50,13 @@ export default function Skills() {
                     </div> 
                 </div> 
                 <div className='d-flex flex-wrap col-11 ml-auto'>
-                    <div class="grid-item"><label htmlFor="file">C++</label><br />
+                    <div class="grid-item"><label htmlFor="file">Nodejs</label><br />
                         <div className="d-flex">
                             <progress className="file" value="65" max="100"> 65% </progress>
                             <label htmlFor="file" className='m-auto'>65%</label>
                         </div>
                     </div>
-                    <div class="grid-item"><label htmlFor="file">C</label><br />
+                    <div class="grid-item"><label htmlFor="file">Express</label><br />
                         <div className="d-flex">
                             <progress className="file" value="75" max="100"> 75% </progress>
                             <label htmlFor="file" className='m-auto'>75%</label>
